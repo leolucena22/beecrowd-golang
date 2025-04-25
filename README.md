@@ -9,12 +9,6 @@ Repositório de soluções para problemas do [Beecrowd](https://www.beecrowd.com
 ## 📜 Tabela de Conteúdos
 - [Sobre o Repositório](#-sobre-o-repositório)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Pré-requisitos](#-pré-requisitos)
-- [Como Usar](#-como-usar)
-- [Contribuir](#-contribuir)
-- [Licença](#-licença)
-- [Agradecimentos](#-agradecimentos)
-
 ---
 
 ## 🚀 Sobre o Repositório
