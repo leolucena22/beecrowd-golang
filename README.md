@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21%2B-00ADD8?logo=go)](https://golang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-009c3b)](https://www.beecrowd.com.br/judge/en/profile/000000)
+[![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-009c3b)](https://www.beecrowd.com.br/judge/en/profile/75521)
 
 Repositório de soluções para problemas do [Beecrowd](https://www.beecrowd.com.br/) implementadas em **Go** (Golang), priorizando eficiência e boas práticas.
 
