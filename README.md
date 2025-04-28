@@ -31,3 +31,5 @@ beecrowd-solutions-go/
 │   └── graphs/            # Algoritmos em grafos
 ├── utils/                 # Funções auxiliares
 └── README.md              # Este arquivo
+```
+### ©2025
