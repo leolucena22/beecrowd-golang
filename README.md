@@ -14,10 +14,10 @@ Repositório de soluções para problemas do [Beecrowd](https://www.beecrowd.com
 ## 🚀 Sobre o Repositório
 Este repositório contém soluções para desafios de programação do [Beecrowd](https://www.beecrowd.com.br/), escritas em **Go** (Golang).  
 🔹 **Por que Go?**  
-- Concorrência nativa  
-- Alta performance  
-- Sintaxe limpa e intuitiva  
-- Ideal para algoritmos competitivos
+- Concorrência nativa ✅  
+- Alta performance ✅  
+- Sintaxe limpa e intuitiva ✅  
+- Ideal para algoritmos competitivos ✅
 
 ---
 
