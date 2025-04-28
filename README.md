@@ -21,7 +21,7 @@ Este repositório contém soluções para desafios de programação do [Beecrowd
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório 💻
 ```bash
 beecrowd-solutions-go/
 ├── problems/
